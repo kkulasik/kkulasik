@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Krzysztof</h1>
-<h3 align="center">A passionate Data Scientist from Poland</h3>
+<!-- <h3 align="center">A passionate Data Scientist from Poland</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kulasik&label=Profile%20views&color=0e75b6&style=flat" alt="kulasik" /> </p>
 
-- 🔭 I’m currently working on **M.A.R.I.U.S.Z - Voice assistant**
+- 🔭 I’m currently working on **M.A.R.I.U.S.Z - Voice assistant**, **[Loyalty Program Web App (React + Spring Boot)](https://github.com/kulasik/loyalty-program-app)**
 
 - 🌱 I’m currently learning **Deep Learning, NLP**
 
