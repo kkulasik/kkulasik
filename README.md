@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kulasik&label=Profile%20views&color=0e75b6&style=flat" alt="kulasik" /> </p>
 
-- 🔭 I’m currently working on **M.A.R.I.U.S.Z - Voice assistant**, **[Loyalty Program Web App (React + Spring Boot)](https://github.com/kulasik/loyalty-program-app)**
+- 🔭 I’m currently working on **[M.A.R.I.U.S.Z - Voice assistant](https://github.com/kulasik/mariusz_voice_assistant)**, **[Loyalty Program Web App (React + Spring Boot)](https://github.com/kulasik/loyalty-program-app)**
 
 - 🌱 I’m currently learning **Deep Learning, NLP**
 
